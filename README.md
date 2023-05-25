@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&color=1F5AF7&multiline=true&width=436&height=62&lines=Hi%F0%9F%98%8A%2C+I+am+Saif+Yahya+;A+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&color=1F5AF7&multiline=true&width=436&height=62&lines=Hi%F0%9F%98%8A%2C+I+am+Saif+Yahya+)](https://git.io/typing-svg)
 ---
 -🎓 I graduated as Electrical Engineer from **Hashemite university**
 
