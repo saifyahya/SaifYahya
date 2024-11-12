@@ -2,7 +2,7 @@
 ---
 -🎓 I graduated as Electrical Engineer from **Hashemite university**
 
--🌱 I am learning Full-Stack Development **(Java)**
+-🌱 Full-Stack Development **(Java)**
 
 -✉️ Contact me: [saifbarakat991@gmail.com](mailto:saifbarakat991@gmail.com)
 
